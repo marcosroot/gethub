@@ -10,10 +10,10 @@ A small script to get basic information about github repository. Using requests 
  and insert the url repository
 
 ## Usage Demo
-> python3 gethub.py
-Insert the github repository url: github.com/facebook/react
+> python3 gethub.py\
+Insert the github repository url: github.com/facebook/react\
 
-Basic informations:
+Basic informations:\
 name -> react
 owner -> facebook
 link -> https://github.com/facebook/react
