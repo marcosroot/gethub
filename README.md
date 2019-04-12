@@ -10,25 +10,25 @@ A small script to get basic information about github repository. Using requests 
  and insert the url repository
 
 ## Usage Demo
-python3 gethub.py &nbsp;
-Insert the github repository url: github.com/facebook/react &nbsp;
+python3 gethub.py \
+Insert the github repository url: github.com/facebook/react \
 
-Basic informations: &nbsp;
-name -> react &nbsp;
-owner -> facebook &nbsp;
-link -> https://github.com/facebook/react &nbsp;
-link_api -> https://api.github.com/repos/facebook/react &nbsp;
-description -> A declarative, efficient, and flexible JavaScript library for building user interfaces. &nbsp;
+Basic informations: \
+name -> react \
+owner -> facebook \
+link -> https://github.com/facebook/react \
+link_api -> https://api.github.com/repos/facebook/react \
+description -> A declarative, efficient, and flexible JavaScript library for building user interfaces. \
 stars -> 126863 &nbsp;
 
-Used languages: &nbsp;
-1 -> JavaScript &nbsp;
-2 -> HTML &nbsp;
-3 -> C++ &nbsp;
-4 -> TypeScript &nbsp;
-5 -> CoffeeScript &nbsp;
-6 -> CSS &nbsp;
-7 -> Shell &nbsp;
-8 -> C &nbsp;
-9 -> Python &nbsp;
+Used languages: \
+1 -> JavaScript \
+2 -> HTML \
+3 -> C++ \
+4 -> TypeScript \
+5 -> CoffeeScript \
+6 -> CSS \
+7 -> Shell \
+8 -> C \
+9 -> Python \
 10 -> Makefile
