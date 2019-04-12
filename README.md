@@ -18,8 +18,8 @@ name -> react \
 owner -> facebook \
 link -> https://github.com/facebook/react \
 link_api -> https://api.github.com/repos/facebook/react \
-description -> A declarative, efficient, and flexible JavaScript library for building user interfaces.
-stars -> 126863 &nbsp;
+description -> A declarative, efficient, and flexible JavaScript library for building user interfaces. \
+stars -> 126863 
 
 Used languages: \
 1 -> JavaScript \
