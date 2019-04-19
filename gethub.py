@@ -55,11 +55,8 @@ class GetGithubData:
         get languages used in the project
         and return a list
         """
-        langs = []
-
-        for lang in content.keys():
-            langs.append(lang)
-
+        langs = [x for x in content.keys()]
+        
         return langs
 
     def request_api(self):
